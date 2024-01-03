@@ -1,46 +1,17 @@
-<?php
-include 'header.php';
-include 'functions.php'; 
+<?php get_header();?>
 
-?>
+    Test
 
-<section>
-    <h2>Front Page</h2>
-    <?php
-    $is_user_logged_in = true;
+    <div class="container">
+        <div class="row">
+            <div class="column">
+                Left Side
+            </div>
 
-    if ($is_user_logged_in) {
-        echo "Welcome back! You are logged in.";
-    } else {
-        echo "Welcome! Please log in to access more content.";
-    }
+            <div class="column">
+                Right Side
+            </div>
+        </div>
+    </div>
 
-   
-    $colors = array("Red", "Green", "Blue");
-
-    echo "<p>Available colors:</p>";
-    echo "<ul>";
-    foreach ($colors as $color) {
-        echo "<li>$color</li>";
-    }
-    echo "</ul>";
-
-    
-    $counter = 1;
-    echo "<p>Counting up to 5:</p>";
-    echo "<ul>";
-    while ($counter <= 5) {
-        echo "<li>$counter</li>";
-        $counter++;
-    }
-    echo "</ul>";
-
-    
-    $name = "Alice";
-    echo greet_user($name); 
-    ?>
-</section>
-
-<?php
-include 'footer.php';
-?>
+<?php get_footer();?>
