@@ -3,8 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Your Website Title</title>
 
-    <?php get_header();?>
+    <!-- Add your styles or link to your CSS file here -->
+    <link rel="stylesheet" href="style.css">
+
+    <?php wp_head(); ?> <!-- If using WordPress, include this line for plugins/scripts -->
 </head>
-<body <?php body_class();?>>
+<body <?php body_class(); ?>>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <a href="/">Your Logo</a>
+            </div>
+
+            <nav>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/page1.php">Page 1</a></li>
+                    <li><a href="/page2.php">Page 2</a></li>
+                    
+                </ul>
+            </nav>
+        </div>
+    </header>
