@@ -1,4 +1,4 @@
-# Week 7 Learning Journal Content Management Systems
+![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/323f5210-1b52-4ad0-b2bb-b373948af83b)# Week 7 Learning Journal Content Management Systems
 # Explanation of Content and Learning Journal
 
 Name: Aditya Vijay 
@@ -101,7 +101,72 @@ Gaining proficiency in PHP tasks has offered valuable insights into server-side 
 
 The entire code consists of a combination of all the different tasks that are required to be completed, here are specific screenshots for these tasks:
 
-1. Echo
+## 1. Echo: 
+Code:
+![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/c784e2e6-514c-44e2-ae46-827ec36c1b17)
+
+Output: 
+![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/b328867d-a710-486d-aba9-e18719a38aba)
+
+
+
+
+## 2. Decisions
+Code:
+![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/f50bddea-9db1-4937-bd01-1db152f7a6f6)
+
+Output:
+![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/f5e7ea53-27de-4dd1-a5a5-22ac172fffb3)
+
+
+
+## 3. Repetition 
+Code:
+![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/4ea650af-a82c-4949-9a92-687efa071c6a)
+
+
+Output:
+![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/2ee8e0bb-7601-4d20-8c04-a40ecc5f1088)
+
+## 4. Functions
+
+Code:
+![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/87ad9732-f53c-4d98-bf4b-9367ca1db87e)
+![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/a0455041-d5e4-4784-bf53-d8f6d15f30e4)
+
+Output:
+![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/e893274b-a65f-4cbd-bd93-21cc3dcf8cfe)
+
+
+
+
+## 5. Include
+
+
+Code: 
+### Header file
+![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/123f18ce-7a15-49cf-85ce-c49d3001a631)
+
+
+### Footer File
+![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/5a6c5c87-6d35-4866-928f-a88bc4939524)
+
+### Front-Page
+![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/e493f8d1-17bb-4181-afd7-fb72db940ace)
+![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/dcb51d09-a338-4c1e-9e98-617906f9dc6f)
+
+Output:
+![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/09f91340-5936-4ff8-9f72-9612e284586b)
+
+### Single Page (Default Page for other pages)
+
+Code:
+![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/b19348f9-6986-4bf6-abbb-da6f57006969)
+![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/24684c85-fc52-47dd-b123-6c015dec67c4)
+
+Output:
+![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/05fbbc83-54d8-48f9-9df5-4414c4294fbb)
+
 
 
 
