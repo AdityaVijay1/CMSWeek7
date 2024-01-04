@@ -87,20 +87,18 @@ Emphasize PHP's versatility, effectiveness, and widespread use in web developmen
 
 
 # Career/Employability/Learning Insights
-- **Career/Employability**: Leading the setup of group resources enhanced my project management and collaboration skills. Integrating communication platforms like Slack with task management tools like Trello reflects my ability to streamline workflows. This experience contributes to my employability by showcasing proficiency in organizing and optimizing group processes for effective project execution as workflows is critical in a professional software engineering environment. The decision to use Trello over GitHub Projects as well as modern industry used code editor Visual Studio Code was based on its user-friendly interface, aligning with industry preferences and contributing to my adaptability in selecting the most suitable tools for collaborative work. <br>
+- **Career/Employability**: 
+Developing robust PHP skills significantly boosts employability in web development positions. The industry's demand for professionals capable of creating dynamic and interactive content using PHP underscores the value of these skills. Consistent practice, evidenced by GitHub repositories, reflects a dedicated approach to skill enhancement. Beyond individual projects, these PHP competencies align with industry standards, positioning professionals as valuable assets in collaborative web development teams. <br>
 
 
 <br>
 
-- **Learning Insights**: This week's tasks provided insights into team formation, emphasizing the importance of diverse skill sets for comprehensive project coverage. Exploring the functionalities of Trello, Slack, and GitHub deepened my understanding of their roles in collaborative settings. The decision to use certain resources over others was influenced by its user-friendly interface and past positive experiences of team members. This choice underlines the significance of familiarity and ease of use in enhancing team productivity and coordination, contributing to valuable lessons in tool selection for effective project management. I also learnt the importance of group agreements as it helps sets the tone of the team's work culture and what is expected from the team members. Project planning is also extremely crucial as it  It helps everybody understand and express themselves.
+- **Learning Insights**: 
+Gaining proficiency in PHP tasks has offered valuable insights into server-side scripting, dynamic content generation, and modular coding. Practical applications, including dynamic HTML echoing and the creation of reusable functions, contribute to a more profound comprehension of web development. Consistent practice and exposure to diverse PHP concepts contribute to enhanced coding proficiency. Confronting challenges in syntax and debugging provides valuable problem-solving experiences. Active engagement in coding exercises and collaborative efforts with peers create a supportive learning environment. Overall, the hands-on approach to PHP programming consolidates theoretical knowledge and cultivates practical skills crucial for successful web development projects.
 
 
-# Practical Tasks Links:
+# Practical Tasks Images:
 
-- Slack Invite Link: https://join.slack.com/t/contentmanage-ani8036/shared_invite/zt-296rkyd2p-FFHFp5g3RVoG6LWPsMyw~w
-- Slack Channel Link: https://app.slack.com/client/T069V1JREQP/C06A9JGNYJW
-- Trello: https://trello.com/b/T1Q9RoCq/Project%20Management%20CMS
-- GitHub Repository: https://github.com/AdityaVijay1/CMS-GroupPA1
-- Daily Stand-Up: https://jamboard.google.com/d/13ioBTYugC6YwWDIpfm3NOoIUAI48Mkwp06f5cjBfTmg/viewer
+
 
 
