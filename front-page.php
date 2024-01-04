@@ -1,6 +1,61 @@
-<?php include 'header.php'; ?>
 
-    <h2>Welcome to My Theme</h2>
+
+<?php
+$isUserLoggedIn = false;
+
+if ($isUserLoggedIn) {
+    echo '<p>Welcome back! You are logged in.</p>';
+} else {
+    echo '<p>Welcome! Please log in to access more content.</p>';
+}
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    
+    $username = $_POST["username"];
+    $password = $_POST["password"];
+
+    
+    $containsNumber = false;
+    for ($i = 0; $i < strlen($username); $i++) {
+        if (is_numeric($username[$i])) {
+            $containsNumber = true;
+            break;
+        }
+    }
+
+    
+    if ($username === "admin" && $password === "password" && !$containsNumber) {
+        
+        header("Location: dashboard.php");
+        exit();
+    } else {
+        $errorMessage = "Invalid username or password";
+        if ($containsNumber) {
+            $errorMessage = "Not correct username. The username should not contain numbers.";
+        }
+    }
+}
+
+
+include 'header.php';
+?>
+
+    <h1>Login</h1>
+
+    <?php if (isset($errorMessage)) { ?>
+        <p><?php echo $errorMessage; ?></p>
+    <?php } ?>
+
+    <form method="POST" action="<?php echo $_SERVER["PHP_SELF"]; ?>">
+        <label for="username">Username:</label>
+        <input type="text" name="username" id="username" required><br>
+
+        <label for="password">Password:</label>
+        <input type="password" name="password" id="password" required><br>
+
+        <input type="submit" value="Login">
+    </form>
+
+    <h2>Welcome to The Home Page of my Theme</h2>
 
     <?php
     echo '<p>This is a paragraph echoed using PHP.</p>';
@@ -24,16 +79,7 @@
         </div>
     </div>
 
-    <?php
     
-    $isUserLoggedIn = false;
-
-    if ($isUserLoggedIn) {
-        echo '<p>Welcome back! You are logged in.</p>';
-    } else {
-        echo '<p>Welcome! Please log in to access more content.</p>';
-    }
-    ?>
     
     <div class="container">
         <div class="row">
@@ -43,7 +89,7 @@
                 $showLeftContent = true;
 
                 if ($showLeftContent) {
-                    echo '<p>Left Side Content</p>';
+                    echo '<p>Left Side Content is showcased</p>';
                 } else {
                     echo '<p>Left side content is hidden.</p>';
                 }
@@ -115,4 +161,4 @@
 $userName = "Ben";
 echo '<p>' . greet_user($userName) . '</p>';
 ?>
-<?php get_footer(); ?>
+<?php include 'footer.php'; ?>

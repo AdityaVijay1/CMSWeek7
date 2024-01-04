@@ -19,11 +19,13 @@
 
             <nav>
                 <ul>
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/page1.php">Page 1</a></li>
-                    <li><a href="/page2.php">Page 2</a></li>
-                    
+                    <li><a href="#">Home</a></li>
+                    <li><a href="/page.php">Page 1</a></li>
+                    <li><a href="/page.php">Page 2</a></li>
+                    <!-- Add more menu items as needed -->
                 </ul>
             </nav>
         </div>
     </header>
+
+
