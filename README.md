@@ -99,6 +99,9 @@ Gaining proficiency in PHP tasks has offered valuable insights into server-side 
 
 # Practical Tasks Images:
 
+The entire code consists of a combination of all the different tasks that are required to be completed, here are specific screenshots for these tasks:
+
+1. Echo
 
 
 
