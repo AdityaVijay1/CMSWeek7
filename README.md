@@ -175,5 +175,16 @@ Output:
 ![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/05fbbc83-54d8-48f9-9df5-4414c4294fbb)
 
 
+View Source Pages:
+
+### View Source Front Page
+
+![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/5650488e-788d-4479-91ef-658027bc7667)
+
+### View Source Sample Page (single)
+![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/6b1933c2-e0a6-401c-969d-12c4b90dd67d)
+
+
+
 
 
