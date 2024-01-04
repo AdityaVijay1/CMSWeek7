@@ -38,7 +38,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 include 'header.php';
 ?>
-
+<body style = "background-color: #ADD8E6;"></body>
     <h1>Login</h1>
 
     <?php if (isset($errorMessage)) { ?>
@@ -161,4 +161,7 @@ include 'header.php';
 $userName = "Ben";
 echo '<p>' . greet_user($userName) . '</p>';
 ?>
+<body style = "background-color: black;">
 <?php include 'footer.php'; ?>
+
+

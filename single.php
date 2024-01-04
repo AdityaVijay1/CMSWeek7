@@ -1,5 +1,6 @@
 <?php include 'header.php'; ?>
 
+<body style = "background-color: #FFFDD0;"></body>
     <h2>Welcome to My Sample Page Theme</h2>
 
     <?php
@@ -85,7 +86,7 @@
 
             <div class="column">
                 <?php
-                $numbers = array(1, 2, 3, 4, 5);
+                $numbers = array(5, 4, 3, 2, 1);
 
                 echo '<p>Numbers:</p>';
                 echo '<ul>';

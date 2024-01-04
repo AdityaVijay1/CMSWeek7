@@ -14,7 +14,7 @@
     <header>
         <div class="container">
             <div class="logo">
-                <a href="/">Your Logo</a>
+                <img src="wp-content/themes/newtheme/images/jculogo.png" height="500px", width="1000px">
             </div>
 
             <nav>
@@ -22,7 +22,7 @@
                     <li><a href="#">Home</a></li>
                     <li><a href="/page.php">Page 1</a></li>
                     <li><a href="/page.php">Page 2</a></li>
-                    <!-- Add more menu items as needed -->
+                    
                 </ul>
             </nav>
         </div>
