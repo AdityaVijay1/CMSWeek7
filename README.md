@@ -26,37 +26,29 @@ Learn PHP concepts, including echoing HTML, decision-making with if/else, variou
  Successfully complete each PHP task and ensure understanding through practical demonstrations. <br>
 
 - Achievable: <br> 
-Apply PHP skills directly to real-world scenarios, reinforcing the importance of each demonstrated task. <br>
-Learn how to use it appropriately for the development and deployment 
+ Practice coding regularly, refer to PHP documentation, and seek clarification on challenging concepts. <br>
+
 - Relevant: <br>
-Ensure teams are balanced and aligned with project goals <br>
-Resource setup directly contributes to effective project collaboration as they are critical for group coordination and progress.<br>
+Apply PHP skills directly to real-world scenarios, reinforcing the importance of each demonstrated task. <br>
+Learn how to use it appropriately for the development and deployment <br>
 
 - Time-bound: <br> 
-Complete team formation and resource setup <br>
-Integration of Trello, Slack, and GitHub should be operational <br>
+Accomplish all tasks within the allocated timeframe, focusing on steady progress and understanding. <br>
 
 
 
 ## Learning Activities & Resources
-I dedicated time this past week to further increase my knowledge and skills in using the project management tools and resources that would be required for successful teamwork towards the group goals 
+I dedicated time this past week to gain knowledge and skills in PHP programming that would be required for building a WordPress theme 
 
-I led the setup of essential group resources for our project, emphasizing Trello for task management, Slack for communication, and GitHub for version control. I delved into the integration process, connecting Slack to GitHub to streamline communication, keep members updated on any project updates and task updates, I also integrated Trello into Slack that would allow for better project management as we can create and move tasks in different cards through it. Trello to manage tasks, GitHub to store code, and Slack as a communication channel. I integrated the tools so Slack sends notifications on GitHub commits and creates Trello tasks. This allows transparency into everyone's work while keeping conversations and tasks organized. One thing I did notice is that every team member would have to subscribe to Github and Trello so that they can view these updates. Collaboratively, our team focused on project planning, ensuring a thorough breakdown of tasks and responsibilities. We explored the functionalities of each platform to optimize their use for effective collaboration. Every team member collectively gave their insights and shared their knowledge on the different subjects of discussion. This helped us understand dependencies and workflow.
+Engaged in hands-on PHP coding, practiced echoing HTML, implemented if/else statements, executed loops (for, while, foreach with arrays), created functions with parameters, and utilized the include statement. Leveraged in class and online PHP tutorials, official documentation, and coding exercises to reinforce learning. Actively participated in coding exercises, seeking feedback from peers and utilizing online resources to troubleshoot challenges. Regularly practiced coding tasks on a local host environment, ensuring a practical understanding of PHP concepts.
 
 Resources used:
-1) Daily Stand-Ups: https://www.youtube.com/watch?v=bQfH0Rbv-Mc&ab_channel=SiemensKnowledgeHub
-2) Collaborating Effectively: https://www.youtube.com/watch?v=vradYqcXfGQ&ab_channel=HarvardBusinessReview
-3) Trello: https://www.youtube.com/watch?v=7BdNTfUXvyA
-4) GitHub Classroom: https://www.youtube.com/watch?v=xVVeqIDgCvM
-5) GitHub Projects: https://www.youtube.com/watch?v=lzpcyYIbHqE
-6) How to use Slack: https://www.youtube.com/watch?v=auOLczd22LQ
-7) Integrating Trello in Slack: https://www.youtube.com/watch?v=0Kf7r3vKYtw
-8) Integrating GitHub Repository in Slack: https://www.youtube.com/watch?v=oMU9MUIXPyI 
-9) Atom: https://www.youtube.com/watch?v=ttRAipyna8E&ab_channel=LearningPython
-10) Sublime: https://www.youtube.com/watch?v=k507xnNJ8Gs&ab_channel=LearningPython
+1) PHP Programming: https://www.youtube.com/watch?v=mgGAvq9hmyU&ab_channel=WebMonkey
+2) PHP WP-Shout: https://wpshout.com/php-for-beginners-tutorial/
+3) Learning PHP for WordPress: https://wpmudev.com/blog/getting-started-with-wordpress-development/
 
 # Estimated Hours
-I spent approximately 10 hours this week on Practical 6 Tasks 
+I spent approximately 10 hours this week on Practical 7 Tasks 
 
 # Content Insights
 ## The hands-on practical tasks provided well-rounded insights on:
