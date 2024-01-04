@@ -5,7 +5,7 @@
 Name: Aditya Vijay 
 <br> Student ID: 14334303
 
-This overview is intended to provide a description of the tasks completed in Practical 7 in the subject Content Management System, details about the goals, SMART goals, the different learning outcomes and how this can lead to career development, insights and employability. Forming team, setting up resources for the group project and begin with initial work.
+This overview is intended to provide a description of the tasks completed in Practical 7 in the subject Content Management System, details about the goals, SMART goals, the different learning outcomes and how this can lead to career development, insights and employability. Learning PHP Programming, WordPress Child Themes creation.
 <br>
 # Use of Learning Journal 
 
