@@ -106,6 +106,7 @@ Code:
 ![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/c784e2e6-514c-44e2-ae46-827ec36c1b17)
 
 Output: 
+
 ![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/b328867d-a710-486d-aba9-e18719a38aba)
 
 
@@ -116,6 +117,7 @@ Code:
 ![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/f50bddea-9db1-4937-bd01-1db152f7a6f6)
 
 Output:
+
 ![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/f5e7ea53-27de-4dd1-a5a5-22ac172fffb3)
 
 
@@ -126,6 +128,7 @@ Code:
 
 
 Output:
+
 ![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/2ee8e0bb-7601-4d20-8c04-a40ecc5f1088)
 
 ## 4. Functions
@@ -135,6 +138,7 @@ Code:
 ![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/a0455041-d5e4-4784-bf53-d8f6d15f30e4)
 
 Output:
+
 ![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/e893274b-a65f-4cbd-bd93-21cc3dcf8cfe)
 
 
@@ -156,6 +160,7 @@ Code:
 ![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/dcb51d09-a338-4c1e-9e98-617906f9dc6f)
 
 Output:
+
 ![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/09f91340-5936-4ff8-9f72-9612e284586b)
 
 ### Single Page (Default Page for other pages)
@@ -165,6 +170,7 @@ Code:
 ![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/24684c85-fc52-47dd-b123-6c015dec67c4)
 
 Output:
+
 ![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/05fbbc83-54d8-48f9-9df5-4414c4294fbb)
 
 
