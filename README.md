@@ -1,4 +1,4 @@
-![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/323f5210-1b52-4ad0-b2bb-b373948af83b)# Week 7 Learning Journal Content Management Systems
+![image](https://github.com/AdityaVijay1/CMSWeek7/assets/84958533/323f5210-1b52-4ad0-b2bb-b373948af83b)
 # Explanation of Content and Learning Journal
 
 Name: Aditya Vijay 
